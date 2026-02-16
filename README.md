@@ -7,6 +7,6 @@ Skills:
 - Excel (Pivot Tables, Dashboards, Advanced Formulas)
 
 Portfolio:
-github.com/yourname/sql-practice-portfolio
+(https://github.com/mohdhussain-data/SQL-Practice-Portfolio)
 
 Currently seeking Internship / Junior Data Analyst / SQL Analyst roles.
