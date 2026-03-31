@@ -20,10 +20,6 @@ Data Analyst focused on SQL and Excel-based business analysis.
 
 👉 https://github.com/mohdhussain-data/sql-data-analysis-portfolio
 
-## 📸 Dashboard Preview
-
-![Salary Dashboard](https://github.com/mohdhussain-data/excel-data-analysis-portfolio/blob/main/data-science-salary-dashboard/images/dashboard.png)
-
 ---
 
 ### 🔹 Excel Data Analysis Portfolio
@@ -35,7 +31,7 @@ Data Analyst focused on SQL and Excel-based business analysis.
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](https://github.com/mohdhussain-data/excel-data-analysis-portfolio/blob/main/vrinda-store-sales-analysis/images/dashboard.png)
+![Salary Dashboard](https://github.com/mohdhussain-data/excel-data-analysis-portfolio/blob/main/data-science-salary-dashboard/images/dashboard.png)
 
 ## 🎯 Currently
 - Building more analytics projects
